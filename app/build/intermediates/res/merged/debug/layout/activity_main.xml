@@ -1,0 +1,8 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:name="com.example.lithy.popularmovies.MainActivityFragment"
+android:id="@+id/fragment_movies"
+tools:layout="@layout/fragment_main"
+android:layout_width="match_parent"
+android:layout_height="match_parent" />
+<!-- From: file:/C:/Users/Lithy/Desktop/ahmedEl-Lithy-Udacity-popular-movies-final-6e17def/app/src/main/res/layout/activity_main.xml -->
